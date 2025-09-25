@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     template: "%s | Lolelink",
   },
   description:
-    "Lolelink helps creators and teams share, organize, and track links beautifully.",
+    "Your AI-Powered Business Partner for Smarter Growth",
   keywords: [
     "Lolelink",
     "link in bio",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     url: "https://www.lolelink.com",
     title: "Lolelink",
     description:
-      "Lolelink helps creators and teams share, organize, and track links beautifully.",
+      "Your AI-Powered Business Partner for Smarter Growth",
     siteName: "Lolelink",
     images: [
       {
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Lolelink",
     description:
-      "Lolelink helps creators and teams share, organize, and track links beautifully.",
+      "Your AI-Powered Business Partner for Smarter Growth",
     images: ["/og.jpg"],
   },
   alternates: {
