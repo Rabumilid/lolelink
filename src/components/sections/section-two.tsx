@@ -31,7 +31,7 @@ export function SectionTwo() {
     <section
       id="section-two"
       ref={ref}
-      className={`mx-auto max-w-full  rounded-b-none mt-auto px-4 pt-16 pb-16 md:pb-24 bg-white text-black ${
+      className={`mx-auto max-w-full  rounded-b-none mt-auto px-4 pb-16 md:pb-24 bg-white text-black ${
         inView ? "animate-fade-up" : "opacity-0 translate-y-6"
       }`}
     >
@@ -49,7 +49,7 @@ export function SectionTwo() {
           {/* Left Column - Dashboard Screenshot */}
           <div className="space-y-8">
             {/* Dashboard Screenshot */}
-            <h1 className="text-4xl font-bold text-black leading-tight uppercase">
+            <h1 className="text-4xl font-bold text-black">
             One Smart Platform to Run Your Entire Business
           </h1>
           

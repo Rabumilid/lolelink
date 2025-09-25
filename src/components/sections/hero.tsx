@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import React from "react";
 
 export function Hero() {
@@ -18,11 +19,13 @@ export function Hero() {
           Manage HR, Finance, Sales, Projects & more, all-in-one evolving platform
           designed for Africa&apos;s SMEs.
         </p>
+        <Link href="/auth/signup">
+        
         <div className="mt-8 flex items-center justify-center">
           <button 
             className="group inline-flex items-center justify-center bg-white hover:bg-gray-100 text-[#1170B9] font-bold py-3 px-8 rounded-full text-lg transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl w-auto cursor-pointer" 
             style={{ boxShadow: "0 10px 25px -5px rgba(0, 0, 0, 0.2), 0 0 0 1px rgba(17, 112, 185, 0.1)" }}
-            onClick={() => window.open('#demo', '_blank')}
+            
           >
             Start Now
             <svg className="ml-2 w-5 h-5 transition-transform duration-300 group-hover:translate-x-1" fill="currentColor" viewBox="0 0 20 20">
@@ -30,6 +33,7 @@ export function Hero() {
             </svg>
           </button>
         </div>
+        </Link>
       </div>
     </section>
   );

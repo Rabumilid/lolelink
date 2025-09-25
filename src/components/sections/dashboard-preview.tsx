@@ -58,9 +58,9 @@ export function FloatingDashboard() {
           </div>
 
           {/* Center main dashboard image */}
-          <div className="flex-1 max-w-[65%] relative z-10 -mt-[10%]">
+          <div className="flex-1 max-w-[65%] relative z-10 -mt-[10%] rounded-2xl">
             <div
-              className="relative p-4 shadow-2xl shadow-black/30"
+              className="relative p-4 shadow-2xl rounded-2xl shadow-black/30"
               style={{
                 background: "transparent",
                 border: "1px solid",

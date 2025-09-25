@@ -74,7 +74,7 @@ export function KeyFeatures() {
             <p className="text-lg font-medium text-[#1070B9] mb-6">
               Key Features
             </p>
-          <h2 className="text-4xl md:text-5xl font-bold text-black uppercase mb-6">
+          <h2 className="text-4xl md:text-5xl font-bold text-black mb-6">
             Everything Your Business Needs
           </h2>
           <p className="text-xl text-gray-600 max-w-5xl mx-auto leading-relaxed">
