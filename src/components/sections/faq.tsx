@@ -30,7 +30,7 @@ export function FAQ() {
   const faqs = [
     {
       question: "Who is LoleLink designed for?",
-      answer: "<span className='text-[rgb(54,146,255)]'>LoleLink</span> is built specifically for African SMEs, freelancers, and micro-entrepreneurs who need an all-in-one platform to manage finance, HR, sales, and projects efficiently."
+      answer: "LoleLink is built specifically for African SMEs, freelancers, and micro-entrepreneurs who need an all-in-one platform to manage finance, HR, sales, and projects efficiently."
     },
     {
       question: "Do I need technical skills to use LoleLink?",
