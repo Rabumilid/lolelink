@@ -106,7 +106,7 @@ export function HowItWorks() {
               01
             </div>
               <div className="relative z-10 pt-8 group-hover:translate-x-2 transition-transform duration-500">
-                <h3 className="text-xl font-bold text-black uppercase mb-4 leading-tight group-hover:text-[#1070B9] transition-colors duration-500">
+                <h3 className="text-xl font-bold text-black mb-4 leading-tight group-hover:text-[#1070B9] transition-colors duration-500">
                   Sign Up & Connect Your Business
                 </h3>
                 <p className="text-black leading-relaxed group-hover:text-gray-700 transition-colors duration-500">
@@ -134,7 +134,7 @@ export function HowItWorks() {
               04
             </div>
               <div className="relative z-10 pt-10 group-hover:translate-x-2 transition-transform duration-500">
-                <h3 className="text-xl font-bold text-black uppercase mb-4 leading-tight group-hover:text-[#1070B9] transition-colors duration-500">
+                <h3 className="text-xl font-bold text-black  mb-4 leading-tight group-hover:text-[#1070B9] transition-colors duration-500">
                   Automate & Track Progress
                 </h3>
                 <p className="text-black pt-1 leading-relaxed group-hover:text-gray-700 transition-colors duration-500">
@@ -153,7 +153,7 @@ export function HowItWorks() {
               style={{ animationDelay: "200ms" }}
             >
               <div className="relative z-10 group-hover:translate-x-2 transition-transform duration-500">
-                <h3 className="text-xl font-bold text-black uppercase mb-4 leading-tight group-hover:text-[#1070B9] transition-colors duration-500">
+                <h3 className="text-xl font-bold text-black mb-4 leading-tight group-hover:text-[#1070B9] transition-colors duration-500">
                   Import & Organize Your Data
                 </h3>
                 <p className="text-black leading-relaxed mb-6 group-hover:text-gray-700 transition-colors duration-500">
@@ -220,7 +220,7 @@ export function HowItWorks() {
               03
             </div>
               <div className="relative z-10 pt-8 group-hover:translate-x-2 transition-transform duration-500">
-                <h3 className="text-xl font-bold text-black uppercase mb-4 leading-tight group-hover:text-[#1070B9] transition-colors duration-500">
+                <h3 className="text-xl font-bold text-black mb-4 leading-tight group-hover:text-[#1070B9] transition-colors duration-500">
                   AI Analyzes & Suggests Improvements
                 </h3>
                     <p className="text-black leading-relaxed group-hover:text-gray-700 transition-colors duration-500">
@@ -248,7 +248,7 @@ export function HowItWorks() {
               05
             </div>
               <div className="relative z-10 pt-8 group-hover:translate-x-2 transition-transform duration-500">
-                <h3 className="text-xl font-bold text-black uppercase mb-4 leading-tight group-hover:text-[#1070B9] transition-colors duration-500">
+                <h3 className="text-xl font-bold text-black  mb-4  group-hover:text-[#1070B9] transition-colors duration-500">
                   Grow With Tools & A Powerful Network
                 </h3>
                 <p className="text-black leading-relaxed group-hover:text-gray-700 transition-colors duration-500">

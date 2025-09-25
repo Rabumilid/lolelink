@@ -30,6 +30,11 @@ export const metadata: Metadata = {
     "creator tools",
     "micro landing pages",
   ],
+  icons: {
+    icon: "/logoicon.webp",
+    shortcut: "/logoicon.webp",
+    apple: "/logoicon.webp",
+  },
   openGraph: {
     type: "website",
     url: "https://www.lolelink.com",

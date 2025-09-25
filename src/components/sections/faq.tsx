@@ -61,9 +61,9 @@ export function FAQ() {
             <h2 className="text-lg font-medium text-[#1070B9] uppercase">
               FAQ
             </h2>
-            <h1 className="text-3xl md:text-4xl font-bold text-black leading-tight uppercase">
-              <span className="block">Frequently Asked </span>
-              <span className="block">Questions</span>
+            <h1 className="text-3xl md:text-4xl font-bold text-black ">
+              Frequently Asked 
+              Questions
               
             </h1>
             <a 
