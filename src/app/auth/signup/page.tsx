@@ -114,7 +114,7 @@ export default function SignupPage() {
               {/* Email */}
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-1">Email</label>
-                <input type="email" className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#1070B9] text-gray-700" placeholder="rabuma@gmail.com" />
+                <input type="email" className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#1070B9] text-gray-700" placeholder="Enter email" />
               </div>
 
               {/* Password */}
